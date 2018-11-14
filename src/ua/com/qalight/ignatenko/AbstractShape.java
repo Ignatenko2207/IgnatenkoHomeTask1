@@ -2,9 +2,7 @@ package ua.com.qalight.ignatenko;
 
 public abstract class AbstractShape implements Shape{
 
-	public double getArea() {
-		return 0;
-	}
+	public abstract double getArea();
 
 	
 	private int intField;
