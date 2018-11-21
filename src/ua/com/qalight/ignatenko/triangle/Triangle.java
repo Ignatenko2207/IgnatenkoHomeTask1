@@ -29,12 +29,12 @@ public class Triangle extends AbstractShape{
 	public Triangle(double baseAsParameter) {
 		this.base = baseAsParameter;
 	}
-	
+//	
 	public Triangle(double height, double base) {
 		this.height = height;
 		this.base = base;
 	}
-	
+//	
 	public Triangle() {
 		
 	}
